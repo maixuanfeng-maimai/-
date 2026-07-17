@@ -1,0 +1,670 @@
+2026-07-13 09:09:36,097 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 09:09:36,314 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 09:09:37,753 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 09:09:38,857 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 09:09:40,913 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 09:12:21,702 - ai_study_app - ERROR - OCR初始化失败: name 'paddleocr' is not defined
+2026-07-13 09:13:32,161 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 09:13:32,358 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 09:13:33,915 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 09:13:34,905 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 09:13:36,962 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 09:14:57,446 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 09:15:07,658 - ai_study_app - INFO - OCR识别成功，识别到 487 字符
+2026-07-13 09:19:34,490 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 09:19:34,749 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 09:19:35,829 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 09:20:53,316 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 09:20:53,518 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 09:20:54,756 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 09:20:56,038 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 09:20:58,095 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 09:22:48,380 - ai_study_app - INFO - 用户提问: 学习中怎样避免拖延症？...
+2026-07-13 09:22:49,859 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-07-13 09:22:49,860 - ai_study_app - WARNING - LLM API错误重试 1/3: Error code: 401 - Invalid token
+2026-07-13 09:22:51,888 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-07-13 09:22:51,888 - ai_study_app - WARNING - LLM API错误重试 2/3: Error code: 401 - Invalid token
+2026-07-13 09:22:56,057 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-07-13 09:22:56,057 - ai_study_app - WARNING - LLM API错误重试 3/3: Error code: 401 - Invalid token
+2026-07-13 09:23:02,062 - ai_study_app - ERROR - LLM调用失败，已达到最大重试次数
+2026-07-13 09:25:25,196 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 09:25:25,196 - ai_study_app - ERROR - ❌ OPENAI_API_KEY 使用的是占位符，请替换为真实密钥
+2026-07-13 09:25:25,196 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 09:25:25,438 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 09:25:26,533 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 09:25:28,011 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 09:25:30,061 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 09:31:59,297 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 09:32:03,966 - ai_study_app - INFO - OCR识别成功，识别到 334 字符
+2026-07-13 09:33:55,153 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 09:33:55,154 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 09:33:55,154 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 09:33:55,394 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 09:33:57,902 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 09:33:57,947 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 09:34:00,020 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 09:34:44,858 - ai_study_app - INFO - 用户提问: 学习中怎样避免拖延症？...
+2026-07-13 09:34:46,552 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 09:35:17,049 - ai_study_app - INFO - LLM调用成功，返回 1101 字符
+2026-07-13 09:36:36,108 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 09:36:40,681 - ai_study_app - INFO - OCR识别成功，识别到 334 字符
+2026-07-13 09:36:42,123 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 09:38:45,417 - ai_study_app - INFO - 翻译请求: 中文 -> 英语, 文本长度: 16
+2026-07-13 09:38:46,357 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 09:38:52,249 - ai_study_app - INFO - LLM调用成功，返回 63 字符
+2026-07-13 09:39:12,170 - ai_study_app - INFO - 用户提问: 学习中怎样避免拖延症？...
+2026-07-13 09:39:12,715 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 09:40:17,068 - ai_study_app - INFO - LLM调用成功，返回 1783 字符
+2026-07-13 09:44:31,309 - ai_study_app - INFO - LLM调用成功，返回 4484 字符
+2026-07-13 09:45:12,791 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 09:45:12,791 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 09:45:12,791 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 09:45:12,791 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 09:45:25,933 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 09:45:25,933 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 13.14s
+2026-07-13 09:45:26,197 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 09:45:27,255 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 09:45:28,928 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 09:45:30,977 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 09:47:25,510 - ai_study_app - INFO - OCR识别成功，识别到 334 字符
+2026-07-13 09:47:27,268 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 09:51:31,718 - ai_study_app - INFO - LLM调用成功，返回 1829 字符，耗时 245.89s
+2026-07-13 09:52:54,047 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 09:52:54,048 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 09:52:54,048 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 09:52:54,048 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 09:53:09,784 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 09:53:09,785 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 15.74s
+2026-07-13 09:53:10,029 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 09:53:12,454 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 09:53:12,675 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 09:53:14,739 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 09:53:58,941 - ai_study_app - INFO - 用户提问: 学习中怎样避免拖延症？...
+2026-07-13 09:54:00,700 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 09:54:04,386 - ai_study_app - INFO - LLM调用成功，返回 247 字符，耗时 5.18s
+2026-07-13 09:55:08,335 - ai_study_app - INFO - OCR识别成功，识别到 334 字符
+2026-07-13 09:55:09,280 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 09:55:30,085 - ai_study_app - INFO - LLM调用成功，返回 869 字符，耗时 21.41s
+2026-07-13 09:58:23,894 - ai_study_app - INFO - OCR识别成功，识别到 89 字符
+2026-07-13 09:58:24,698 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 09:59:26,068 - ai_study_app - INFO - LLM调用成功，返回 2840 字符，耗时 61.76s
+2026-07-13 10:05:00,911 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 10:05:00,912 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 10:05:00,912 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 10:05:00,912 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 10:05:13,236 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 10:05:13,236 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 12.32s
+2026-07-13 10:05:13,470 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 10:05:15,615 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 10:05:16,118 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 10:05:18,168 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 10:07:00,986 - ai_study_app - ERROR - OCR识别失败: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'cvtColor'
+> Overload resolution failed:
+>  - src data type = bool is not supported
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+2026-07-13 10:07:03,238 - ai_study_app - ERROR - OCR识别失败: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'cvtColor'
+> Overload resolution failed:
+>  - src data type = bool is not supported
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+2026-07-13 10:09:46,574 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 10:09:46,574 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 10:09:46,574 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 10:09:46,574 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 10:10:02,653 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 10:10:02,653 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 16.08s
+2026-07-13 10:10:02,979 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 10:10:05,860 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 10:10:07,938 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 10:10:07,946 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 10:18:49,103 - ai_study_app - ERROR - OCR识别失败: tuple index out of range
+2026-07-13 10:18:49,113 - ai_study_app - ERROR - 异常堆栈: Traceback (most recent call last):
+  File "C:\Users\J3799\Documents\trae_projects\ai_study\src\ocr_utils.py", line 335, in ocr_image
+    result = ocr.predict(img_np)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddleocr\_pipelines\ocr.py", line 223, in predict
+    return list(
+           ^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\pipelines\_parallel.py", line 161, in predict
+    yield from self._pipeline.predict(
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\pipelines\ocr\pipeline.py", line 352, in predict
+    doc_preprocessor_results = list(
+                               ^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\pipelines\_parallel.py", line 161, in predict
+    yield from self._pipeline.predict(
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\pipelines\doc_preprocessor\pipeline.py", line 184, in predict
+    output_imgs = [
+                  ^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\pipelines\doc_preprocessor\pipeline.py", line 184, in <listcomp>
+    output_imgs = [
+                  ^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\predictors\base_predictor.py", line 117, in __call__
+    yield from self.apply(input, **kwargs)
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\predictors\base_predictor.py", line 140, in apply
+    pred = self.process(batch_data, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\image_unwarping\predictor.py", line 83, in process
+    batch_imgs = self.preprocessors["Normalize"](imgs=batch_raw_imgs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\common\vision\processors.py", line 270, in __call__
+    return [self.norm(img) for img in imgs]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\common\vision\processors.py", line 270, in <listcomp>
+    return [self.norm(img) for img in imgs]
+            ^^^^^^^^^^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\common\vision\processors.py", line 260, in norm
+    for c in range(img.shape[2]):
+                   ~~~~~~~~~^^^
+IndexError: tuple index out of range
+
+2026-07-13 10:18:56,565 - ai_study_app - ERROR - OCR识别失败: tuple index out of range
+2026-07-13 10:18:56,568 - ai_study_app - ERROR - 异常堆栈: Traceback (most recent call last):
+  File "C:\Users\J3799\Documents\trae_projects\ai_study\src\ocr_utils.py", line 335, in ocr_image
+    result = ocr.predict(img_np)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddleocr\_pipelines\ocr.py", line 223, in predict
+    return list(
+           ^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\pipelines\_parallel.py", line 161, in predict
+    yield from self._pipeline.predict(
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\pipelines\ocr\pipeline.py", line 352, in predict
+    doc_preprocessor_results = list(
+                               ^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\pipelines\_parallel.py", line 161, in predict
+    yield from self._pipeline.predict(
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\pipelines\doc_preprocessor\pipeline.py", line 184, in predict
+    output_imgs = [
+                  ^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\pipelines\doc_preprocessor\pipeline.py", line 184, in <listcomp>
+    output_imgs = [
+                  ^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\predictors\base_predictor.py", line 117, in __call__
+    yield from self.apply(input, **kwargs)
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\predictors\base_predictor.py", line 140, in apply
+    pred = self.process(batch_data, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\image_unwarping\predictor.py", line 83, in process
+    batch_imgs = self.preprocessors["Normalize"](imgs=batch_raw_imgs)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\common\vision\processors.py", line 270, in __call__
+    return [self.norm(img) for img in imgs]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\common\vision\processors.py", line 270, in <listcomp>
+    return [self.norm(img) for img in imgs]
+            ^^^^^^^^^^^^^^
+  File "C:\Users\J3799\AppData\Roaming\Python\Python311\site-packages\paddlex\inference\models\common\vision\processors.py", line 260, in norm
+    for c in range(img.shape[2]):
+                   ~~~~~~~~~^^^
+IndexError: tuple index out of range
+
+2026-07-13 10:21:41,743 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 10:21:41,743 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 10:21:41,743 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 10:21:41,743 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 10:21:56,818 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 10:21:56,818 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 15.07s
+2026-07-13 10:21:57,058 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 10:21:58,117 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 10:21:59,677 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 10:22:01,746 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 10:25:05,886 - ai_study_app - INFO - OCR识别成功，识别到 58 字符
+2026-07-13 10:25:07,552 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 10:25:20,026 - ai_study_app - INFO - LLM调用成功，返回 758 字符，耗时 13.84s
+2026-07-13 10:35:00,812 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 10:35:00,812 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 10:35:00,813 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 10:35:00,813 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 10:35:12,786 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 10:35:12,786 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 11.97s
+2026-07-13 10:35:13,035 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 10:35:15,085 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 10:35:15,720 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 10:35:17,812 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 10:36:48,936 - ai_study_app - INFO - OCR识别成功，识别到 62 字符
+2026-07-13 10:36:50,429 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 10:37:44,811 - ai_study_app - INFO - LLM调用成功，返回 3908 字符，耗时 55.53s
+2026-07-13 10:38:03,739 - ai_study_app - INFO - OCR识别成功，识别到 62 字符
+2026-07-13 10:38:23,652 - ai_study_app - INFO - OCR识别成功，识别到 1179 字符
+2026-07-13 10:38:25,058 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 10:39:21,663 - ai_study_app - INFO - LLM调用成功，返回 4096 字符，耗时 57.62s
+2026-07-13 10:44:44,449 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 10:44:44,450 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 10:44:44,450 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 10:44:44,450 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 10:44:57,862 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 10:44:57,862 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 13.41s
+2026-07-13 10:44:57,866 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-07-13 10:44:57,867 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-07-13 10:44:57,870 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-07-13 10:44:57,871 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-07-13 10:44:58,061 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-07-13 10:44:58,062 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-07-13 10:44:58,113 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 10:44:58,126 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-07-13 10:44:58,128 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-07-13 10:44:58,357 - httpcore.connection - DEBUG - connect_tcp.started host='api.gradio.app' port=443 local_address=None timeout=3 socket_options=None
+2026-07-13 10:44:58,358 - httpcore.connection - DEBUG - connect_tcp.started host='huggingface.co' port=443 local_address=None timeout=3 socket_options=None
+2026-07-13 10:44:58,409 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-07-13 10:44:58,711 - httpcore.connection - DEBUG - connect_tcp.started host='localhost' port=7860 local_address=None timeout=None socket_options=None
+2026-07-13 10:44:58,937 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000022F7391C250>
+2026-07-13 10:44:58,938 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x0000022F63376CC0> server_hostname='api.gradio.app' timeout=3
+2026-07-13 10:44:59,921 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000022F736A93D0>
+2026-07-13 10:44:59,921 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'GET']>
+2026-07-13 10:44:59,921 - httpcore.http11 - DEBUG - send_request_headers.complete
+2026-07-13 10:44:59,921 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'GET']>
+2026-07-13 10:44:59,922 - httpcore.http11 - DEBUG - send_request_body.complete
+2026-07-13 10:44:59,922 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'GET']>
+2026-07-13 10:45:00,139 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Mon, 13 Jul 2026 02:44:59 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'21'), (b'Connection', b'keep-alive'), (b'Server', b'nginx/1.18.0'), (b'Access-Control-Allow-Origin', b'*')])
+2026-07-13 10:45:00,140 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 10:45:00,140 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'GET']>
+2026-07-13 10:45:00,140 - httpcore.http11 - DEBUG - receive_response_body.complete
+2026-07-13 10:45:00,140 - httpcore.http11 - DEBUG - response_closed.started
+2026-07-13 10:45:00,140 - httpcore.http11 - DEBUG - response_closed.complete
+2026-07-13 10:45:00,140 - httpcore.connection - DEBUG - close.started
+2026-07-13 10:45:00,140 - httpcore.connection - DEBUG - close.complete
+2026-07-13 10:45:00,748 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000022F664F0810>
+2026-07-13 10:45:00,749 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'GET']>
+2026-07-13 10:45:00,749 - httpcore.http11 - DEBUG - send_request_headers.complete
+2026-07-13 10:45:00,776 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'GET']>
+2026-07-13 10:45:00,776 - httpcore.http11 - DEBUG - send_request_body.complete
+2026-07-13 10:45:00,777 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'GET']>
+2026-07-13 10:45:00,777 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'date', b'Mon, 13 Jul 2026 02:45:00 GMT'), (b'server', b'uvicorn'), (b'content-length', b'4'), (b'content-type', b'application/json')])
+2026-07-13 10:45:00,779 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 10:45:00,779 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'GET']>
+2026-07-13 10:45:00,779 - httpcore.http11 - DEBUG - receive_response_body.complete
+2026-07-13 10:45:00,779 - httpcore.http11 - DEBUG - response_closed.started
+2026-07-13 10:45:00,779 - httpcore.http11 - DEBUG - response_closed.complete
+2026-07-13 10:45:00,780 - httpcore.connection - DEBUG - close.started
+2026-07-13 10:45:00,780 - httpcore.connection - DEBUG - close.complete
+2026-07-13 10:45:00,781 - httpcore.connection - DEBUG - connect_tcp.started host='localhost' port=7860 local_address=None timeout=3 socket_options=None
+2026-07-13 10:45:01,383 - httpcore.connection - DEBUG - connect_tcp.failed exception=ConnectTimeout(TimeoutError('timed out'))
+2026-07-13 10:45:01,384 - httpcore.connection - DEBUG - connect_tcp.started host='huggingface.co' port=443 local_address=None timeout=None socket_options=None
+2026-07-13 10:45:02,821 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000022F6C02E5D0>
+2026-07-13 10:45:02,822 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'HEAD']>
+2026-07-13 10:45:02,823 - httpcore.http11 - DEBUG - send_request_headers.complete
+2026-07-13 10:45:02,823 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'HEAD']>
+2026-07-13 10:45:02,823 - httpcore.http11 - DEBUG - send_request_body.complete
+2026-07-13 10:45:02,823 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'HEAD']>
+2026-07-13 10:45:02,843 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'date', b'Mon, 13 Jul 2026 02:45:02 GMT'), (b'server', b'uvicorn'), (b'content-length', b'142629'), (b'content-type', b'text/html; charset=utf-8')])
+2026-07-13 10:45:02,843 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 10:45:02,843 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'HEAD']>
+2026-07-13 10:45:02,843 - httpcore.http11 - DEBUG - receive_response_body.complete
+2026-07-13 10:45:02,844 - httpcore.http11 - DEBUG - response_closed.started
+2026-07-13 10:45:02,844 - httpcore.http11 - DEBUG - response_closed.complete
+2026-07-13 10:45:02,844 - httpcore.connection - DEBUG - close.started
+2026-07-13 10:45:02,844 - httpcore.connection - DEBUG - close.complete
+2026-07-13 10:45:02,847 - httpcore.connection - DEBUG - connect_tcp.started host='huggingface.co' port=443 local_address=None timeout=None socket_options=None
+2026-07-13 10:45:22,421 - httpcore.connection - DEBUG - connect_tcp.failed exception=ConnectTimeout(TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None))
+2026-07-13 10:45:23,887 - httpcore.connection - DEBUG - connect_tcp.failed exception=ConnectTimeout(TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None))
+2026-07-13 10:49:34,284 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 10:49:34,284 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 10:49:34,284 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 10:49:34,284 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 10:49:46,632 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 10:49:46,633 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 12.35s
+2026-07-13 10:49:46,866 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 10:49:48,212 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 10:49:49,496 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 10:49:51,545 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 10:50:47,454 - ai_study_app - INFO - OCR识别成功，识别到 88 字符
+2026-07-13 10:50:49,407 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 10:51:47,683 - ai_study_app - INFO - LLM调用成功，返回 4076 字符，耗时 59.92s
+2026-07-13 10:53:48,971 - ai_study_app - INFO - OCR识别成功，识别到 45 字符
+2026-07-13 10:53:50,029 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 10:54:51,552 - ai_study_app - INFO - LLM调用成功，返回 4048 字符，耗时 62.27s
+2026-07-13 11:03:29,344 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 11:03:29,344 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 11:03:29,344 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 11:03:29,344 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 11:03:41,445 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 11:03:41,445 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 12.10s
+2026-07-13 11:03:41,686 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 11:03:43,930 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 11:03:44,339 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 11:03:46,394 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 11:05:10,298 - ai_study_app - INFO - OCR识别成功，识别到 45 字符
+2026-07-13 11:05:38,174 - ai_study_app - INFO - OCR识别成功，识别到 45 字符
+2026-07-13 11:05:39,979 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 11:06:19,665 - ai_study_app - INFO - OCR识别成功，识别到 45 字符
+2026-07-13 11:06:20,891 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 11:07:07,102 - ai_study_app - INFO - LLM调用成功，返回 1952 字符，耗时 47.14s
+2026-07-13 11:15:40,360 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 11:15:40,360 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 11:15:40,360 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 11:15:40,360 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 11:15:52,591 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 11:15:52,591 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 12.23s
+2026-07-13 11:15:52,839 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 11:15:55,504 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 11:15:55,594 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 11:15:57,562 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 11:21:11,250 - ai_study_app - INFO - OCR识别成功，识别到 45 字符
+2026-07-13 11:21:15,948 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 11:21:56,899 - ai_study_app - INFO - LLM调用成功，返回 3044 字符，耗时 45.25s
+2026-07-13 11:50:27,134 - ai_study_app - INFO - 用户提问: 学习中怎样避免拖延症？...
+2026-07-13 11:50:30,180 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 11:50:35,980 - ai_study_app - INFO - LLM调用成功，返回 350 字符，耗时 8.39s
+2026-07-13 11:54:03,105 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 11:54:03,105 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 11:54:03,105 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 11:54:03,105 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 11:54:09,459 - matplotlib - WARNING - mkdir -p failed for path C:\Users\J3799\AppData\Local\matplotlib: [WinError 5] 拒绝访问。: 'C:\\Users\\J3799\\AppData\\Local\\matplotlib'
+2026-07-13 11:54:09,461 - matplotlib - WARNING - Matplotlib created a temporary cache directory at C:\Users\J3799\AppData\Local\Temp\matplotlib-z3g8ox5c because there was an issue with the default path ({configdir}); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+2026-07-13 11:54:10,703 - matplotlib.font_manager - INFO - generated new fontManager
+2026-07-13 11:54:17,404 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 11:54:17,404 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 14.30s
+2026-07-13 11:54:17,673 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 11:54:18,682 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 11:54:20,139 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 11:54:22,185 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 11:57:20,821 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 11:57:20,821 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 11:57:20,821 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 11:57:20,821 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 11:57:26,789 - matplotlib - WARNING - mkdir -p failed for path C:\Users\J3799\AppData\Local\matplotlib: [WinError 5] 拒绝访问。: 'C:\\Users\\J3799\\AppData\\Local\\matplotlib'
+2026-07-13 11:57:26,791 - matplotlib - WARNING - Matplotlib created a temporary cache directory at C:\Users\J3799\AppData\Local\Temp\matplotlib-as57nnmo because there was an issue with the default path ({configdir}); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+2026-07-13 11:57:27,791 - matplotlib.font_manager - INFO - generated new fontManager
+2026-07-13 11:57:34,078 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 11:57:34,078 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 13.26s
+2026-07-13 11:57:34,326 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 11:57:35,696 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 11:57:36,777 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 11:57:38,836 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 13:39:03,774 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 13:39:03,775 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 13:39:03,775 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 13:39:03,775 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 13:39:14,770 - matplotlib - WARNING - mkdir -p failed for path C:\Users\J3799\AppData\Local\matplotlib: [WinError 5] 拒绝访问。: 'C:\\Users\\J3799\\AppData\\Local\\matplotlib'
+2026-07-13 13:39:14,772 - matplotlib - WARNING - Matplotlib created a temporary cache directory at C:\Users\J3799\AppData\Local\Temp\matplotlib-6pbe9b4f because there was an issue with the default path ({configdir}); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+2026-07-13 13:39:16,379 - matplotlib.font_manager - INFO - generated new fontManager
+2026-07-13 13:39:27,151 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 13:39:27,151 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 23.38s
+2026-07-13 13:39:27,449 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 13:39:28,330 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 13:39:29,962 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 13:39:32,019 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 13:40:09,741 - ai_study_app - INFO - OCR识别成功，识别到 42 字符
+2026-07-13 13:40:12,005 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 13:40:47,878 - ai_study_app - INFO - OCR识别成功，识别到 42 字符
+2026-07-13 13:40:48,885 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 13:41:00,383 - ai_study_app - INFO - 反馈已保存: search, 评分: 1
+2026-07-13 13:41:02,317 - ai_study_app - INFO - 反馈已保存: search, 评分: 1
+2026-07-13 13:41:32,672 - ai_study_app - INFO - LLM调用成功，返回 2068 字符，耗时 44.47s
+2026-07-13 13:49:03,384 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 13:49:03,384 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 13:49:03,384 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 13:49:03,384 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 13:49:10,450 - matplotlib - WARNING - mkdir -p failed for path C:\Users\J3799\AppData\Local\matplotlib: [WinError 5] 拒绝访问。: 'C:\\Users\\J3799\\AppData\\Local\\matplotlib'
+2026-07-13 13:49:10,450 - matplotlib - WARNING - Matplotlib created a temporary cache directory at C:\Users\J3799\AppData\Local\Temp\matplotlib-vdzdfthz because there was an issue with the default path ({configdir}); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+2026-07-13 13:49:11,566 - matplotlib.font_manager - INFO - generated new fontManager
+2026-07-13 13:49:19,344 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 13:49:19,344 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 15.96s
+2026-07-13 13:49:19,567 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 13:49:21,965 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 13:49:22,014 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 13:49:24,082 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 13:52:03,173 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 13:52:03,174 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 13:52:03,174 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 13:52:03,174 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 13:52:09,803 - matplotlib - WARNING - mkdir -p failed for path C:\Users\J3799\AppData\Local\matplotlib: [WinError 5] 拒绝访问。: 'C:\\Users\\J3799\\AppData\\Local\\matplotlib'
+2026-07-13 13:52:09,803 - matplotlib - WARNING - Matplotlib created a temporary cache directory at C:\Users\J3799\AppData\Local\Temp\matplotlib-u_o9dl8u because there was an issue with the default path ({configdir}); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+2026-07-13 13:52:10,894 - matplotlib.font_manager - INFO - generated new fontManager
+2026-07-13 13:52:18,282 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 13:52:18,283 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 15.11s
+2026-07-13 13:52:18,542 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 13:52:19,956 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 13:52:21,027 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 13:52:23,080 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 13:54:17,829 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 13:54:17,829 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 13:54:17,829 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 13:54:17,829 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 13:54:24,270 - matplotlib - WARNING - mkdir -p failed for path C:\Users\J3799\AppData\Local\matplotlib: [WinError 5] 拒绝访问。: 'C:\\Users\\J3799\\AppData\\Local\\matplotlib'
+2026-07-13 13:54:24,270 - matplotlib - WARNING - Matplotlib created a temporary cache directory at C:\Users\J3799\AppData\Local\Temp\matplotlib-too_k4rc because there was an issue with the default path ({configdir}); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+2026-07-13 13:54:25,310 - matplotlib.font_manager - INFO - generated new fontManager
+2026-07-13 13:54:32,408 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 13:54:32,409 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 14.58s
+2026-07-13 13:54:32,661 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 13:54:34,598 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 13:54:35,152 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 13:54:37,234 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 13:57:31,841 - matplotlib - WARNING - mkdir -p failed for path C:\Users\J3799\AppData\Local\matplotlib: [WinError 5] 拒绝访问。: 'C:\\Users\\J3799\\AppData\\Local\\matplotlib'
+2026-07-13 13:57:32,002 - matplotlib - WARNING - Matplotlib created a temporary cache directory at C:\Users\J3799\AppData\Local\Temp\matplotlib-sa4crtd8 because there was an issue with the default path ({configdir}); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+2026-07-13 13:57:33,280 - matplotlib.font_manager - INFO - generated new fontManager
+2026-07-13 13:57:40,518 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 13:57:42,988 - ai_study_app - INFO - OCR识别成功，识别到 37 字符
+2026-07-13 13:57:44,439 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 13:57:44,656 - ai_study_app - INFO - LLM调用成功，返回 12 字符，耗时 1.37s
+2026-07-13 13:57:53,832 - matplotlib.font_manager - INFO - generated new fontManager
+2026-07-13 13:57:58,729 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 13:58:01,215 - ai_study_app - INFO - OCR识别成功，识别到 37 字符
+2026-07-13 13:58:02,377 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 13:58:02,647 - ai_study_app - INFO - LLM调用成功，返回 12 字符，耗时 1.13s
+2026-07-13 13:58:40,666 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 13:58:52,007 - ai_study_app - INFO - LLM调用成功，返回 616 字符，耗时 12.52s
+2026-07-13 14:01:02,809 - ai_study_app - WARNING - sanitize后内容过短: ''
+2026-07-13 14:01:02,809 - ai_study_app - WARNING - sanitize后内容过短: '1'
+2026-07-13 14:02:03,005 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:02:07,247 - ai_study_app - INFO - LLM调用成功，返回 217 字符，耗时 5.41s
+2026-07-13 14:03:38,605 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:03:42,773 - ai_study_app - INFO - LLM调用成功，返回 225 字符，耗时 5.28s
+2026-07-13 14:05:21,153 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 14:05:23,873 - ai_study_app - INFO - OCR识别成功，识别到 37 字符
+2026-07-13 14:05:25,549 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:05:25,561 - ai_study_app - INFO - LLM调用成功，返回 13 字符，耗时 1.36s
+2026-07-13 14:09:04,476 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 14:09:04,476 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 14:09:04,476 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 14:09:04,477 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 14:09:17,604 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 14:09:17,604 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 13.13s
+2026-07-13 14:09:17,851 - ai_study_app - INFO - 应用启动完成，访问 http://localhost:7860
+2026-07-13 14:09:18,799 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 14:09:20,374 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 14:09:22,427 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 14:10:23,451 - ai_study_app - INFO - OCR识别成功，识别到 40 字符
+2026-07-13 14:10:24,933 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:10:41,596 - ai_study_app - INFO - LLM调用成功，返回 782 字符，耗时 17.82s
+2026-07-13 14:11:16,966 - ai_study_app - INFO - OCR识别成功，识别到 55 字符
+2026-07-13 14:11:17,752 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:11:30,697 - ai_study_app - INFO - LLM调用成功，返回 507 字符，耗时 13.36s
+2026-07-13 14:16:43,416 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:17:05,617 - ai_study_app - INFO - LLM调用成功，返回 1052 字符，耗时 23.42s
+2026-07-13 14:17:39,373 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:17:45,686 - ai_study_app - INFO - LLM调用成功，返回 265 字符，耗时 7.82s
+2026-07-13 14:21:25,366 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 14:21:25,367 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 14:21:25,367 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 14:21:25,367 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 14:21:39,741 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 14:21:39,741 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 14.37s
+2026-07-13 14:21:40,931 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 14:22:27,837 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 14:22:27,837 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 14:22:27,837 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 14:22:27,837 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 14:22:41,168 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 14:22:41,169 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 13.33s
+2026-07-13 14:22:42,543 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 14:22:43,929 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 14:22:45,983 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 14:31:47,817 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 14:31:47,818 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 14:31:47,818 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 14:31:47,818 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 14:32:01,414 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 14:32:01,414 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 13.60s
+2026-07-13 14:32:03,563 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 14:32:04,189 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 14:32:06,248 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 14:32:40,733 - ai_study_app - INFO - OCR识别成功，识别到 55 字符
+2026-07-13 14:32:58,337 - ai_study_app - INFO - OCR识别成功，识别到 176 字符
+2026-07-13 14:33:00,010 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:33:16,508 - ai_study_app - INFO - LLM调用成功，返回 268 字符，耗时 17.85s
+2026-07-13 14:44:30,847 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 14:44:30,847 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 14:44:30,847 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 14:44:30,847 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 14:44:43,025 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 14:44:43,025 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 12.18s
+2026-07-13 14:44:45,656 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 14:44:47,088 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 14:44:47,729 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 14:46:05,287 - ai_study_app - INFO - OCR识别成功，识别到 176 字符
+2026-07-13 14:46:07,094 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:47:15,750 - ai_study_app - INFO - LLM调用成功，返回 148 字符，耗时 70.16s
+2026-07-13 14:56:28,985 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:57:04,190 - ai_study_app - INFO - LLM调用成功，返回 716 字符，耗时 36.69s
+2026-07-13 14:57:06,521 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:57:44,770 - ai_study_app - INFO - LLM调用成功，返回 722 字符，耗时 40.32s
+2026-07-13 14:57:45,370 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:58:13,597 - ai_study_app - INFO - LLM调用成功，返回 720 字符，耗时 28.57s
+2026-07-13 14:58:14,194 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:58:34,847 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:59:29,958 - ai_study_app - INFO - LLM调用成功，返回 738 字符，耗时 56.26s
+2026-07-13 14:59:31,316 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 14:59:36,845 - ai_study_app - INFO - LLM调用成功，返回 946 字符，耗时 82.97s
+2026-07-13 14:59:38,158 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 15:00:08,192 - ai_study_app - INFO - LLM调用成功，返回 724 字符，耗时 37.92s
+2026-07-13 15:00:29,763 - ai_study_app - INFO - LLM调用成功，返回 766 字符，耗时 52.61s
+2026-07-13 15:00:45,780 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 15:00:45,780 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 15:00:45,780 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 15:00:45,780 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 15:00:58,524 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 15:00:58,524 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 12.74s
+2026-07-13 15:01:00,954 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 15:01:26,880 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 15:01:26,880 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 15:01:26,880 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 15:01:26,881 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 15:01:39,322 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 15:01:39,322 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 12.44s
+2026-07-13 15:01:41,471 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 15:01:42,065 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 15:01:44,108 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 15:35:27,133 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 15:35:27,133 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 15:35:27,133 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 15:35:27,134 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 15:35:42,324 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 15:35:42,324 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 15.19s
+2026-07-13 15:35:44,503 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 15:35:45,108 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 15:35:47,190 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 16:16:13,663 - ai_study_app - INFO - OCR识别成功，识别到 1147 字符
+2026-07-13 16:16:15,531 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 16:16:26,023 - ai_study_app - INFO - LLM调用成功，返回 147 字符，耗时 12.00s
+2026-07-13 16:19:17,943 - ai_study_app - INFO - OCR识别成功，识别到 339 字符
+2026-07-13 16:19:18,858 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 16:20:44,272 - ai_study_app - INFO - LLM调用成功，返回 3091 字符，耗时 85.83s
+2026-07-13 16:20:47,784 - ai_study_app - INFO - OCR识别成功，识别到 339 字符
+2026-07-13 16:20:48,455 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 16:22:16,384 - ai_study_app - INFO - LLM调用成功，返回 3030 字符，耗时 88.27s
+2026-07-13 16:31:51,537 - ai_study_app - INFO - OCR识别成功，识别到 754 字符
+2026-07-13 16:31:52,698 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 16:32:24,854 - ai_study_app - INFO - 用户提问: 介绍一下你自己
+...
+2026-07-13 16:32:25,589 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 16:32:46,245 - ai_study_app - INFO - LLM调用成功，返回 346 字符，耗时 20.93s
+2026-07-13 16:32:48,351 - ai_study_app - INFO - LLM调用成功，返回 2947 字符，耗时 56.36s
+2026-07-13 16:33:11,846 - ai_study_app - INFO - 用户提问: 10*10=？
+...
+2026-07-13 16:33:25,073 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 16:33:58,429 - ai_study_app - INFO - LLM调用成功，返回 124 字符，耗时 46.13s
+2026-07-13 16:45:51,097 - ai_study_app - INFO - 用户提问: 今天南京的天气怎么样
+...
+2026-07-13 16:45:52,197 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 16:46:03,431 - ai_study_app - INFO - LLM调用成功，返回 213 字符，耗时 12.05s
+2026-07-13 16:50:48,033 - ai_study_app - INFO - 用户提问: 介绍一下高斯定理...
+2026-07-13 16:50:48,969 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 16:51:56,550 - ai_study_app - INFO - LLM调用成功，返回 1302 字符，耗时 68.11s
+2026-07-13 16:52:34,288 - ai_study_app - INFO - 用户提问: 用地理知识介绍一下巴威台风...
+2026-07-13 16:52:35,270 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 16:53:43,095 - ai_study_app - INFO - LLM调用成功，返回 1422 字符，耗时 68.39s
+2026-07-13 16:56:34,522 - ai_study_app - INFO - 用户提问: 我说的时2026年的巴威...
+2026-07-13 16:56:35,683 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 16:57:30,084 - ai_study_app - INFO - LLM调用成功，返回 714 字符，耗时 55.06s
+2026-07-13 17:07:35,740 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 17:07:35,740 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 17:07:35,740 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 17:07:35,740 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 17:07:56,915 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 17:07:56,915 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 21.18s
+2026-07-13 17:07:58,554 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 17:07:59,959 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 17:08:02,016 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-07-13 17:17:47,732 - ai_study_app - INFO - OCR识别成功，识别到 64 字符
+2026-07-13 17:17:47,733 - ai_study_app - INFO - 图片OCR识别成功，识别到 64 字符
+2026-07-13 17:17:47,734 - ai_study_app - INFO - 用户提问: [图片识别内容]
+(x)是R1周期为5的奇函数，11满足1(1) 2，则(3) 1, f(2) 1(4) A. 1 B. -1 C.2 D. -2
+
+...
+2026-07-13 17:17:49,801 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 17:17:56,979 - ai_study_app - INFO - LLM调用成功，返回 361 字符，耗时 8.81s
+2026-07-13 17:18:37,977 - ai_study_app - INFO - OCR识别成功，识别到 1147 字符
+2026-07-13 17:18:37,978 - ai_study_app - INFO - 图片OCR识别成功，识别到 1147 字符
+2026-07-13 17:18:37,978 - ai_study_app - INFO - 用户提问: [图片识别内容]
+一4三通写目再商合分： 小 号注是 - geos n : o√ - poe n na 2t 1un, 0 1 pm: calon A-on - Sam, n gã- Me los n...
+2026-07-13 17:18:39,009 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 17:18:52,124 - ai_study_app - INFO - LLM调用成功，返回 655 字符，耗时 13.51s
+2026-07-13 17:19:08,899 - ai_study_app - INFO - OCR识别成功，识别到 339 字符
+2026-07-13 17:19:08,900 - ai_study_app - INFO - 图片OCR识别成功，识别到 339 字符
+2026-07-13 17:19:08,900 - ai_study_app - INFO - 用户提问: [图片识别内容]
+Meümei, this e√ening I think so Why? A ha√e you free B are you free C° you ha√e free 1) wer...
+2026-07-13 17:19:09,722 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 17:19:19,667 - ai_study_app - INFO - LLM调用成功，返回 523 字符，耗时 10.31s
+2026-07-13 17:19:37,284 - ai_study_app - INFO - OCR识别成功，识别到 80 字符
+2026-07-13 17:19:37,287 - ai_study_app - INFO - 图片OCR识别成功，识别到 80 字符
+2026-07-13 17:19:37,288 - ai_study_app - INFO - 用户提问: [图片识别内容]
+8 sins x (1>x>0 O i = né o = é > > x > 0) − + x= 4 9 r£ + ,ε = 4 1 ()言 2份公 列函数中，
+
+...
+2026-07-13 17:19:38,276 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 17:19:46,892 - ai_study_app - INFO - LLM调用成功，返回 460 字符，耗时 9.15s
+2026-07-13 17:20:23,563 - ai_study_app - INFO - OCR识别成功，识别到 80 字符
+2026-07-13 17:20:23,567 - ai_study_app - INFO - 图片OCR识别成功，识别到 80 字符
+2026-07-13 17:20:23,567 - ai_study_app - INFO - 用户提问: [图片识别内容]
+8 sins x (1>x>0 O i = né o = é > > x > 0) − + x= 4 9 r£ + ,ε = 4 1 ()言 2份公 列函数中，
+
+...
+2026-07-13 17:20:24,442 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 17:20:29,225 - ai_study_app - INFO - LLM调用成功，返回 300 字符，耗时 5.21s
+2026-07-13 17:21:16,993 - ai_study_app - INFO - OCR识别成功，识别到 22 字符
+2026-07-13 17:21:16,995 - ai_study_app - INFO - 图片OCR识别成功，识别到 22 字符
+2026-07-13 17:21:16,995 - ai_study_app - INFO - 用户提问: [图片识别内容]
+的最小价为( ） 8 B2 5 D C. 2
+
+...
+2026-07-13 17:21:17,955 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 17:21:20,919 - ai_study_app - INFO - LLM调用成功，返回 155 字符，耗时 3.49s
+2026-07-13 17:22:15,650 - ai_study_app - INFO - OCR识别成功，识别到 60 字符
+2026-07-13 17:22:15,652 - ai_study_app - INFO - 图片OCR识别成功，识别到 60 字符
+2026-07-13 17:22:15,652 - ai_study_app - INFO - 用户提问: [图片识别内容]
+D[13] B(2 (-7.2) C[-7.2] 知 f(x)的定义域为1-2,)，函数/(3x-))的定义域为 ( )
+
+...
+2026-07-13 17:22:16,802 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 17:22:27,399 - ai_study_app - INFO - LLM调用成功，返回 436 字符，耗时 11.30s
+2026-07-13 17:23:29,181 - ai_study_app - INFO - 用户提问: 这题应该选d吧...
+2026-07-13 17:23:30,186 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 17:23:38,749 - ai_study_app - INFO - LLM调用成功，返回 409 字符，耗时 9.11s
+2026-07-13 17:24:17,524 - ai_study_app - INFO - OCR识别成功，识别到 50 字符
+2026-07-13 17:24:17,525 - ai_study_app - INFO - 图片OCR识别成功，识别到 50 字符
+2026-07-13 17:24:17,527 - ai_study_app - INFO - 用户提问: [图片识别内容]
+f(x)的定义域为(-2,1]，函数f(3x-1)的定义域为( ) 。 B) C1-7.2] 7.2
+
+...
+2026-07-13 17:24:18,621 - httpx - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-13 17:24:26,357 - ai_study_app - INFO - LLM调用成功，返回 371 字符，耗时 8.38s
+2026-07-13 17:37:05,966 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-13 17:37:05,966 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-13 17:37:05,969 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-13 17:37:05,969 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-13 17:37:20,971 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-13 17:37:20,971 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 15.00s
+2026-07-13 17:37:22,252 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-13 17:37:23,673 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-13 17:37:25,744 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"

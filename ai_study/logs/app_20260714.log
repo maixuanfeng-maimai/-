@@ -1,0 +1,9 @@
+2026-07-14 08:48:06,838 - ai_study_app - INFO - AI智能学习助手启动中...
+2026-07-14 08:48:06,839 - ai_study_app - INFO - ✅ OPENAI_API_KEY 已配置
+2026-07-14 08:48:06,839 - ai_study_app - INFO - ✅ OPENAI_BASE_URL 已配置
+2026-07-14 08:48:06,839 - ai_study_app - INFO - 正在预初始化OCR引擎...
+2026-07-14 08:48:23,056 - ai_study_app - INFO - OCR初始化成功 (版本: 3.7.0)
+2026-07-14 08:48:23,057 - ai_study_app - INFO - OCR预初始化完成: OCR初始化成功 (版本: 3.7.0), 耗时 16.22s
+2026-07-14 08:48:24,433 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-07-14 08:48:25,698 - httpx - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-07-14 08:48:27,776 - httpx - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
