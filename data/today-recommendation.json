@@ -1,0 +1,54 @@
+{
+  "date": "2026-06-14",
+  "movies": [
+    {
+      "title": "蝙蝠侠：黑暗骑士",
+      "rating": 9.2,
+      "vote_count": 165432,
+      "link": "https://movie.douban.com/subject/1845171/",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "description": "超级英雄电影的巅峰。蝙蝠侠与小丑之间的对决，善恶混沌的哲学思辨。",
+      "release_date": "2008-07-18",
+      "id": 155,
+      "original_title": "The Dark Knight",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ]
+    },
+    {
+      "title": "千与千寻",
+      "rating": 9.4,
+      "vote_count": 215678,
+      "link": "https://movie.douban.com/subject/1291561/",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "description": "奇幻的冒险之旅。十岁女孩千寻误入神灵世界，为救父母踏上了一段奇妙的成长冒险。",
+      "release_date": "2001-07-20",
+      "id": 129,
+      "original_title": "Spirited Away",
+      "genre_ids": [
+        16,
+        12,
+        14
+      ]
+    },
+    {
+      "title": "泰坦尼克号",
+      "rating": 9.4,
+      "vote_count": 187654,
+      "link": "https://movie.douban.com/subject/1292722/",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "description": "You jump, I jump. 跨越阶级的爱情，沉没于冰洋的悲剧，永恒的经典。",
+      "release_date": "1997-12-19",
+      "id": 597,
+      "original_title": "Titanic",
+      "genre_ids": [
+        18,
+        10749
+      ]
+    }
+  ],
+  "content": "🎬 今日电影推荐 🎬\n\n1. 《蝙蝠侠：黑暗骑士》\n   ⭐ 评分：9.2分\n   📅 上映：2008年\n   📝 简介：哥谭市笼罩在混乱阴影下，一位不按常理出牌的罪犯让整座城市陷入道德困境，蝙蝠侠必须在黑暗中做出抉择。\n   🔗 查看详情：https://movie.douban.com/subject/1845171/\n\n2. 《千与千寻》\n   ⭐ 评分：9.4分\n   📅 上映：2001年\n   📝 简介：搬家途中，小女孩千寻意外闯入一个由神灵和魔法主宰的世界，为了解救变成猪的父母，她开始在汤屋打工并寻找回家的路。\n   🔗 查看详情：https://movie.douban.com/subject/1291561/\n\n3. 《泰坦尼克号》\n   ⭐ 评分：9.4分\n   📅 上映：1997年\n   📝 简介：穷画家与贵族少女在命运号巨轮上相遇相爱，阶级的鸿沟与突如其来的灾难，让这段爱情刻骨铭心。\n   🔗 查看详情：https://movie.douban.com/subject/1292722/\n\n#今日电影推荐 #高分好片",
+  "savedAt": "2026-06-14T05:35:14.691Z"
+}

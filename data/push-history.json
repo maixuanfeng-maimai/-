@@ -1,0 +1,610 @@
+{
+  "history": [
+    {
+      "id": "1781505039727",
+      "date": "2026-06-15T06:30:39.727Z",
+      "movies": [
+        {
+          "title": "盗火线",
+          "rating": 8.5,
+          "vote_count": 87654,
+          "link": "https://movie.douban.com/subject/1292017/",
+          "image": "https://image.tmdb.org/t/p/w500/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+          "description": "警匪对决经典。洛杉矶最顶尖刑警与最顶尖劫匪的终极对决。",
+          "release_date": "1995-12-15",
+          "id": 949,
+          "original_title": "Heat",
+          "genre_ids": [
+            28,
+            80,
+            53
+          ]
+        },
+        {
+          "title": "盗梦空间",
+          "rating": 9.3,
+          "vote_count": 218186,
+          "link": "https://movie.douban.com/subject/3541415/",
+          "image": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+          "description": "多重梦境烧脑神作。盗梦者可潜入梦境植入想法，层层嵌套分不清现实。",
+          "release_date": "2010-09-01",
+          "id": 27205,
+          "original_title": "Inception",
+          "genre_ids": [
+            28,
+            12,
+            14,
+            878
+          ]
+        },
+        {
+          "title": "辛德勒的名单",
+          "rating": 9.5,
+          "vote_count": 176543,
+          "link": "https://movie.douban.com/subject/1292213/",
+          "image": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+          "description": "拯救一个人就是拯救全世界。商人用生命换来1200名犹太人的生还。",
+          "release_date": "1993-11-30",
+          "id": 424,
+          "original_title": "Schindler's List",
+          "genre_ids": [
+            18,
+            36,
+            10752
+          ]
+        }
+      ],
+      "status": "success",
+      "target": "all"
+    },
+    {
+      "id": "1781505026234",
+      "date": "2026-06-15T06:30:26.234Z",
+      "movies": [
+        {
+          "title": "星际穿越",
+          "rating": 9.4,
+          "vote_count": 189999,
+          "link": "https://movie.douban.com/subject/1889243/",
+          "image": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+          "description": "探索宇宙与时间的史诗。宇航员穿越虫洞寻找人类新家园。",
+          "release_date": "2014-11-12",
+          "id": 157336,
+          "original_title": "Interstellar",
+          "genre_ids": [
+            12,
+            18,
+            878
+          ]
+        },
+        {
+          "title": "楚门的世界",
+          "rating": 9.3,
+          "vote_count": 178901,
+          "link": "https://movie.douban.com/subject/1292064/",
+          "image": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+          "description": "如果再也不能见到你，祝你早安午安晚安。楚门的一举一动都被全球直播。",
+          "release_date": "1998-06-01",
+          "id": 37165,
+          "original_title": "The Truman Show",
+          "genre_ids": [
+            18,
+            10749
+          ]
+        },
+        {
+          "title": "泰坦尼克号",
+          "rating": 9.4,
+          "vote_count": 187654,
+          "link": "https://movie.douban.com/subject/1292722/",
+          "image": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+          "description": "You jump, I jump。穷小子和富家女在巨轮上的一段跨越阶级的爱情。",
+          "release_date": "1997-12-19",
+          "id": 597,
+          "original_title": "Titanic",
+          "genre_ids": [
+            18,
+            10749
+          ]
+        }
+      ],
+      "status": "success",
+      "target": "all"
+    },
+    {
+      "id": "1781501156162",
+      "date": "2026-06-15T05:25:56.162Z",
+      "movies": [
+        {
+          "title": "盗梦空间",
+          "rating": 9.3,
+          "vote_count": 218186,
+          "link": "https://movie.douban.com/subject/3541415/",
+          "image": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+          "description": "多重梦境烧脑神作。盗梦者可潜入梦境植入想法，层层嵌套分不清现实。",
+          "release_date": "2010-09-01",
+          "id": 27205,
+          "original_title": "Inception",
+          "genre_ids": [
+            28,
+            12,
+            14,
+            878
+          ]
+        },
+        {
+          "title": "盗火线",
+          "rating": 8.5,
+          "vote_count": 87654,
+          "link": "https://movie.douban.com/subject/1292017/",
+          "image": "https://image.tmdb.org/t/p/w500/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+          "description": "警匪对决经典。洛杉矶最顶尖刑警与最顶尖劫匪的终极对决。",
+          "release_date": "1995-12-15",
+          "id": 949,
+          "original_title": "Heat",
+          "genre_ids": [
+            28,
+            80,
+            53
+          ]
+        },
+        {
+          "title": "海上钢琴师",
+          "rating": 9.3,
+          "vote_count": 198765,
+          "link": "https://movie.douban.com/subject/1292001/",
+          "image": "https://image.tmdb.org/t/p/w500/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+          "description": "一生都在船上的钢琴天才，用音乐诠释对世界的理解。",
+          "release_date": "1998-10-28",
+          "id": 25237,
+          "original_title": "The Legend of 1900",
+          "genre_ids": [
+            18,
+            10402
+          ]
+        }
+      ],
+      "status": "success",
+      "target": "all"
+    },
+    {
+      "id": "1781500865670",
+      "date": "2026-06-15T05:21:05.670Z",
+      "movies": [
+        {
+          "title": "低俗小说",
+          "rating": 8.9,
+          "vote_count": 156789,
+          "link": "https://movie.douban.com/subject/1291847/",
+          "image": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+          "description": "非线性叙事经典。几个无关故事通过巧合交织在一起。",
+          "release_date": "1994-10-14",
+          "id": 680,
+          "original_title": "Pulp Fiction",
+          "genre_ids": [
+            80,
+            35,
+            53
+          ]
+        },
+        {
+          "title": "辛德勒的名单",
+          "rating": 9.5,
+          "vote_count": 176543,
+          "link": "https://movie.douban.com/subject/1292213/",
+          "image": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+          "description": "拯救一个人就是拯救全世界。商人用生命换来1200名犹太人的生还。",
+          "release_date": "1993-11-30",
+          "id": 424,
+          "original_title": "Schindler's List",
+          "genre_ids": [
+            18,
+            36,
+            10752
+          ]
+        },
+        {
+          "title": "黑客帝国",
+          "rating": 9.1,
+          "vote_count": 187654,
+          "link": "https://movie.douban.com/subject/1291841/",
+          "image": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+          "description": "现实与虚拟的边界。尼奥发现世界其实是由矩阵控制的虚拟现实。",
+          "release_date": "1999-03-31",
+          "id": 603,
+          "original_title": "The Matrix",
+          "genre_ids": [
+            28,
+            878
+          ]
+        }
+      ],
+      "status": "success",
+      "target": "all"
+    },
+    {
+      "id": "1781500774534",
+      "date": "2026-06-15T05:19:34.534Z",
+      "movies": [
+        {
+          "title": "辛德勒的名单",
+          "rating": 9.5,
+          "vote_count": 176543,
+          "link": "https://movie.douban.com/subject/1292213/",
+          "image": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+          "description": "拯救一个人就是拯救全世界。商人用生命换来1200名犹太人的生还。",
+          "release_date": "1993-11-30",
+          "id": 424,
+          "original_title": "Schindler's List",
+          "genre_ids": [
+            18,
+            36,
+            10752
+          ]
+        },
+        {
+          "title": "星际穿越",
+          "rating": 9.4,
+          "vote_count": 189999,
+          "link": "https://movie.douban.com/subject/1889243/",
+          "image": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+          "description": "探索宇宙与时间的史诗。宇航员穿越虫洞寻找人类新家园。",
+          "release_date": "2014-11-12",
+          "id": 157336,
+          "original_title": "Interstellar",
+          "genre_ids": [
+            12,
+            18,
+            878
+          ]
+        },
+        {
+          "title": "搏击俱乐部",
+          "rating": 9,
+          "vote_count": 167890,
+          "link": "https://movie.douban.com/subject/1292000/",
+          "image": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+          "description": "打破平庸生活的疯狂计划。第一条规则：不谈搏击俱乐部。",
+          "release_date": "1999-09-10",
+          "id": 550,
+          "original_title": "Fight Club",
+          "genre_ids": [
+            18,
+            53
+          ]
+        }
+      ],
+      "status": "success",
+      "target": "all"
+    },
+    {
+      "id": "1781500126337",
+      "date": "2026-06-15T05:08:46.337Z",
+      "movies": [
+        {
+          "title": "楚门的世界",
+          "rating": 9.3,
+          "vote_count": 178901,
+          "link": "https://movie.douban.com/subject/1292064/",
+          "image": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+          "description": "如果再也不能见到你，祝你早安午安晚安。楚门的一举一动都被全球直播。",
+          "release_date": "1998-06-01",
+          "id": 37165,
+          "original_title": "The Truman Show",
+          "genre_ids": [
+            18,
+            10749
+          ]
+        },
+        {
+          "title": "盗梦空间",
+          "rating": 9.3,
+          "vote_count": 218186,
+          "link": "https://movie.douban.com/subject/3541415/",
+          "image": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+          "description": "多重梦境烧脑神作。盗梦者可潜入梦境植入想法，层层嵌套分不清现实。",
+          "release_date": "2010-09-01",
+          "id": 27205,
+          "original_title": "Inception",
+          "genre_ids": [
+            28,
+            12,
+            14,
+            878
+          ]
+        },
+        {
+          "title": "搏击俱乐部",
+          "rating": 9,
+          "vote_count": 167890,
+          "link": "https://movie.douban.com/subject/1292000/",
+          "image": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+          "description": "打破平庸生活的疯狂计划。第一条规则：不谈搏击俱乐部。",
+          "release_date": "1999-09-10",
+          "id": 550,
+          "original_title": "Fight Club",
+          "genre_ids": [
+            18,
+            53
+          ]
+        }
+      ],
+      "status": "success",
+      "target": "all"
+    },
+    {
+      "id": "1781495933277",
+      "date": "2026-06-15T03:58:53.277Z",
+      "movies": [
+        {
+          "title": "星际穿越",
+          "rating": 9.4,
+          "vote_count": 189999,
+          "link": "https://movie.douban.com/subject/1889243/",
+          "image": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+          "description": "探索宇宙与时间的史诗。宇航员穿越虫洞寻找人类新家园。",
+          "release_date": "2014-11-12",
+          "id": 157336,
+          "original_title": "Interstellar",
+          "genre_ids": [
+            12,
+            18,
+            878
+          ]
+        },
+        {
+          "title": "低俗小说",
+          "rating": 8.9,
+          "vote_count": 156789,
+          "link": "https://movie.douban.com/subject/1291847/",
+          "image": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+          "description": "非线性叙事经典。几个无关故事通过巧合交织在一起。",
+          "release_date": "1994-10-14",
+          "id": 680,
+          "original_title": "Pulp Fiction",
+          "genre_ids": [
+            80,
+            35,
+            53
+          ]
+        },
+        {
+          "title": "霸王别姬",
+          "rating": 9.6,
+          "vote_count": 223456,
+          "link": "https://movie.douban.com/subject/1291546/",
+          "image": "https://image.tmdb.org/t/p/w500/4mazyXEMkmLw5h6076yyNSm9uv0.jpg",
+          "description": "人生如戏戏如人生。两个京剧伶人半世纪的悲欢离合。",
+          "release_date": "1993-07-26",
+          "id": 10907,
+          "original_title": "Farewell My Concubine",
+          "genre_ids": [
+            18,
+            10751
+          ]
+        }
+      ],
+      "status": "success",
+      "target": "all"
+    },
+    {
+      "id": "1781494955841",
+      "date": "2026-06-15T03:42:35.841Z",
+      "movies": [
+        {
+          "title": "霸王别姬",
+          "rating": 9.6,
+          "vote_count": 223456,
+          "link": "https://movie.douban.com/subject/1291546/",
+          "image": "https://image.tmdb.org/t/p/w500/4mazyXEMkmLw5h6076yyNSm9uv0.jpg",
+          "description": "人生如戏戏如人生。两个京剧伶人半世纪的悲欢离合。",
+          "release_date": "1993-07-26",
+          "id": 10907,
+          "original_title": "Farewell My Concubine",
+          "genre_ids": [
+            18,
+            10751
+          ]
+        },
+        {
+          "title": "楚门的世界",
+          "rating": 9.3,
+          "vote_count": 178901,
+          "link": "https://movie.douban.com/subject/1292064/",
+          "image": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+          "description": "如果再也不能见到你，祝你早安午安晚安。楚门的一举一动都被全球直播。",
+          "release_date": "1998-06-01",
+          "id": 37165,
+          "original_title": "The Truman Show",
+          "genre_ids": [
+            18,
+            10749
+          ]
+        },
+        {
+          "title": "阿甘正传",
+          "rating": 9.5,
+          "vote_count": 198765,
+          "link": "https://movie.douban.com/subject/1292720/",
+          "image": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+          "description": "一部美国近现代史。智商75的阿甘用最单纯的心跑过了整个时代。",
+          "release_date": "1994-07-06",
+          "id": 13,
+          "original_title": "Forrest Gump",
+          "genre_ids": [
+            18,
+            35
+          ]
+        }
+      ],
+      "status": "success",
+      "target": "all"
+    },
+    {
+      "id": "1781485458137",
+      "date": "2026-06-15T01:04:18.137Z",
+      "movies": [
+        {
+          "title": "搏击俱乐部",
+          "rating": 9,
+          "vote_count": 167890,
+          "link": "https://movie.douban.com/subject/1292000/",
+          "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910925369.jpg",
+          "description": "打破平庸生活的疯狂计划",
+          "release_date": "1999-09-10",
+          "id": 550,
+          "original_title": "Fight Club",
+          "genre_ids": [
+            18,
+            53
+          ]
+        },
+        {
+          "title": "寻梦环游记",
+          "rating": 9.1,
+          "vote_count": 156789,
+          "link": "https://movie.douban.com/subject/26683290/",
+          "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505559558.jpg",
+          "description": "关于家庭与记忆",
+          "release_date": "2017-11-24",
+          "id": 354912,
+          "original_title": "Coco",
+          "genre_ids": [
+            16,
+            12,
+            10751
+          ]
+        },
+        {
+          "title": "盗火线",
+          "rating": 8.5,
+          "vote_count": 87654,
+          "link": "https://movie.douban.com/subject/1292017/",
+          "image": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2184554629.jpg",
+          "description": "警匪对决的经典",
+          "release_date": "1995-12-15",
+          "id": 33,
+          "original_title": "Heat",
+          "genre_ids": [
+            28,
+            80,
+            53
+          ]
+        }
+      ],
+      "status": "success",
+      "target": "all"
+    },
+    {
+      "id": "1781418272984",
+      "date": "2026-06-14T06:24:32.984Z",
+      "movies": [
+        {
+          "title": "盗火线",
+          "rating": 8.5,
+          "vote_count": 87654,
+          "link": "https://movie.douban.com/subject/1292017/",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
+          "description": "警匪对决的经典。洛杉矶最优秀的刑警与最顶尖的劫匪，一场注定只有一人能存活的对决。",
+          "release_date": "1995-12-15",
+          "id": 33,
+          "original_title": "Heat",
+          "genre_ids": [
+            28,
+            80,
+            53
+          ]
+        },
+        {
+          "title": "盗梦空间",
+          "rating": 9.3,
+          "vote_count": 218186,
+          "link": "https://movie.douban.com/subject/3541415/",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "description": "多重梦境的烧脑神作。进入他人梦境、植入意念，一场关于现实与虚幻的惊天冒险。",
+          "release_date": "2010-09-01",
+          "id": 27205,
+          "original_title": "Inception",
+          "genre_ids": [
+            28,
+            12,
+            14,
+            878
+          ]
+        },
+        {
+          "title": "肖申克的救赎",
+          "rating": 9.7,
+          "vote_count": 234567,
+          "link": "https://movie.douban.com/subject/1292052/",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+          "description": "希望让人自由。一个被冤枉的银行家在肖申克监狱服刑期间，凭借智慧和毅力改变了自己和狱友的命运。",
+          "release_date": "1994-09-23",
+          "id": 278,
+          "original_title": "The Shawshank Redemption",
+          "genre_ids": [
+            18,
+            80
+          ]
+        }
+      ],
+      "status": "success",
+      "target": "all"
+    },
+    {
+      "id": "1781418247341",
+      "date": "2026-06-14T06:24:07.341Z",
+      "movies": [
+        {
+          "title": "楚门的世界",
+          "rating": 9.3,
+          "vote_count": 178901,
+          "link": "https://movie.douban.com/subject/1292064/",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_SX300.jpg",
+          "description": "如果再也不能见到你，祝你早安午安晚安。一个人的一生竟是一场被直播的真人秀。",
+          "release_date": "1998-06-01",
+          "id": 865,
+          "original_title": "The Truman Show",
+          "genre_ids": [
+            18,
+            10749
+          ]
+        },
+        {
+          "title": "黑客帝国",
+          "rating": 9.1,
+          "vote_count": 187654,
+          "link": "https://movie.douban.com/subject/1291841/",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+          "description": "现实与虚拟的边界。电脑黑客尼奥发现世界的真相，加入反抗机器统治的革命。",
+          "release_date": "1999-03-31",
+          "id": 603,
+          "original_title": "The Matrix",
+          "genre_ids": [
+            28,
+            878
+          ]
+        },
+        {
+          "title": "蝙蝠侠：黑暗骑士",
+          "rating": 9.2,
+          "vote_count": 165432,
+          "link": "https://movie.douban.com/subject/1845171/",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+          "description": "超级英雄电影的巅峰。蝙蝠侠与小丑之间的对决，善恶混沌的哲学思辨。",
+          "release_date": "2008-07-18",
+          "id": 155,
+          "original_title": "The Dark Knight",
+          "genre_ids": [
+            28,
+            80,
+            18
+          ]
+        }
+      ],
+      "status": "success",
+      "target": "all"
+    }
+  ],
+  "lastUpdate": "2026-06-15T06:30:39.727Z"
+}
